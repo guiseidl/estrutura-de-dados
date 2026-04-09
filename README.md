@@ -1,7 +1,8 @@
 # Estruturas, Pesquisa e Ordenação de Dados – 2026/1
 ## Trabalhos Práticos – 1º Bimestre
 
-**Curso:** Engenharia de Software / Análise e Desenvolvimento de Sistemas  
+**Curso:** Análise e Desenvolvimento de Sistemas  
+**Curso:** Guilherme Seidl, Vagner Giraldino, Gustavo Ferreira, Lucas delabernarda
 **Instituição:** UniCesumar – Campus Ponta Grossa  
 **Disciplina:** Estruturas, Pesquisa e Ordenação de Dados  
 **Professor:** Prof. MSc. Gabriel Passos de Jesus  
